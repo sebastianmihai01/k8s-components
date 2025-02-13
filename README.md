@@ -1,2 +1,4 @@
 # k8s-components
-Reusable microservices, using K8s, Terraform, Kafka and ELK stack
+Reusable components to be used with kubernetes
+Written in both TS and Python (not dockerised or transformed into any helm chart)
+
